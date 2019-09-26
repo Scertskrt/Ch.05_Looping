@@ -1,4 +1,4 @@
-  #Sign your name:________________
+  #Sign your name: Tristan
 
 '''
  1. Make the following program work.
